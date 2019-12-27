@@ -1,0 +1,5 @@
+Milik;Arkadiusz;185;28;Napastnik;
+Zielinski;Piotr;170;27;pomocnik;
+Genaro;Gatuso;160;35;obronca;
+Maldini;Paulo;190;35;obronca;
+Costa;Diego;220;24;napastnik;
